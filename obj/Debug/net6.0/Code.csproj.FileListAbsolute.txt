@@ -1,0 +1,14 @@
+C:\Users\amazi\OneDrive\Desktop\Tech Interviews\Euclid Innovations\Assignment\My energy supplier pal\bin\Debug\net6.0\Code.exe
+C:\Users\amazi\OneDrive\Desktop\Tech Interviews\Euclid Innovations\Assignment\My energy supplier pal\bin\Debug\net6.0\Code.deps.json
+C:\Users\amazi\OneDrive\Desktop\Tech Interviews\Euclid Innovations\Assignment\My energy supplier pal\bin\Debug\net6.0\Code.runtimeconfig.json
+C:\Users\amazi\OneDrive\Desktop\Tech Interviews\Euclid Innovations\Assignment\My energy supplier pal\bin\Debug\net6.0\Code.dll
+C:\Users\amazi\OneDrive\Desktop\Tech Interviews\Euclid Innovations\Assignment\My energy supplier pal\bin\Debug\net6.0\Code.pdb
+C:\Users\amazi\OneDrive\Desktop\Tech Interviews\Euclid Innovations\Assignment\My energy supplier pal\obj\Debug\net6.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amazi\OneDrive\Desktop\Tech Interviews\Euclid Innovations\Assignment\My energy supplier pal\obj\Debug\net6.0\Code.AssemblyInfoInputs.cache
+C:\Users\amazi\OneDrive\Desktop\Tech Interviews\Euclid Innovations\Assignment\My energy supplier pal\obj\Debug\net6.0\Code.AssemblyInfo.cs
+C:\Users\amazi\OneDrive\Desktop\Tech Interviews\Euclid Innovations\Assignment\My energy supplier pal\obj\Debug\net6.0\Code.csproj.CoreCompileInputs.cache
+C:\Users\amazi\OneDrive\Desktop\Tech Interviews\Euclid Innovations\Assignment\My energy supplier pal\obj\Debug\net6.0\Code.dll
+C:\Users\amazi\OneDrive\Desktop\Tech Interviews\Euclid Innovations\Assignment\My energy supplier pal\obj\Debug\net6.0\refint\Code.dll
+C:\Users\amazi\OneDrive\Desktop\Tech Interviews\Euclid Innovations\Assignment\My energy supplier pal\obj\Debug\net6.0\Code.pdb
+C:\Users\amazi\OneDrive\Desktop\Tech Interviews\Euclid Innovations\Assignment\My energy supplier pal\obj\Debug\net6.0\Code.genruntimeconfig.cache
+C:\Users\amazi\OneDrive\Desktop\Tech Interviews\Euclid Innovations\Assignment\My energy supplier pal\obj\Debug\net6.0\ref\Code.dll

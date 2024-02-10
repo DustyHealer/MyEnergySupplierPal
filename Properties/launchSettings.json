@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyEnergySupplierPal": {
+      "commandName": "Project",
+      "commandLineArgs": "\"input\" \"C:\\Users\\amazi\\OneDrive\\Desktop\\Tech Interviews\\Euclid Innovations\\Assignment\\My energy supplier pal\\InputFile\\plans.json\""
+    }
+  }
+}
